@@ -17,3 +17,5 @@ trus tinggal di run dehh<br>
 - VS Code
 - Me :)
 - Kegabutan :v
+
+Support me via <a href="https://sociabuzz.com/masgalih320/support">Sociabuzz</a>
