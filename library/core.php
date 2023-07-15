@@ -10,7 +10,7 @@ class Telebot
         $this->token = $bot_token;
     }
 
-    function send($msg)
+    public function send($msg)
     {
         $postdata = "chat_id=$this->chatID&disable_web_page_preview=1&text=$msg";
         $ch = curl_init();
